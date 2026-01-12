@@ -151,13 +151,14 @@ As métricas criadas ao longo deste case podem ser visualizadas em:
 
 ---
 
-### Algumas referências utilizadas
-- https://eips.ethereum.org/EIPS/eip-20
-- https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
-- https://ethereum.org/en/developers/docs/intro-to-ethereum/
-
 ## Validações e qualidade dos dados
 Foram realizadas validações para garantir a confiabilidade das métricas.
 É possível fazer a verificação de validações na pasta [00_analise_exploratoria.sql](queries/00_analise_exploratoria.sql)
 
+---
+
+## Algumas referências utilizadas
+- https://eips.ethereum.org/EIPS/eip-20
+- https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
+- https://ethereum.org/en/developers/docs/intro-to-ethereum/
 ---
