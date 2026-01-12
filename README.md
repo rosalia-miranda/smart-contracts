@@ -122,7 +122,6 @@ As queries deste repositório podem ser executadas diretamente no BigQuery, sem 
 - Listagem dos contratos criados nesse bloco, com nome e símbolo do token quando disponíveis.
 
 - Em redes como a Ethereum, nem todos os contratos seguem padrões como ERC-20, em que as funções `name()` e `symbol()` são definidas como opcionais. Como resultado, nem todos os tokens possuem `token_name` e `token_symbol` preenchidos no dataset público do BigQuery.  
-- (Baseado em: https://eips.ethereum.org/EIPS/eip-20 e https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
 
 - Query utilizada:  
   [04_bloco_com_maior_gas_e_tokens.sql](queries/04_bloco_com_maior_gas_e_tokens.sql)
@@ -151,6 +150,11 @@ As métricas criadas ao longo deste case podem ser visualizadas em:
 [Looker Studio](https://lookerstudio.google.com/reporting/29c5c916-ed20-437f-94cd-afb96b2988dc)
 
 ---
+
+### Algumas referências utilizadas
+- https://eips.ethereum.org/EIPS/eip-20
+- https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
+- https://ethereum.org/en/developers/docs/intro-to-ethereum/
 
 ## Validações e qualidade dos dados
 Foram realizadas validações para garantir a confiabilidade das métricas.
