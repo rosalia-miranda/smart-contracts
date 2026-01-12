@@ -159,6 +159,6 @@ Foram realizadas validações para garantir a confiabilidade das métricas.
 
 ## Algumas referências utilizadas
 - https://eips.ethereum.org/EIPS/eip-20
-- https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
+- https://ethereum.org/en/developers/docs/standards/tokens/erc-20/
 - https://ethereum.org/en/developers/docs/intro-to-ethereum/
 ---
