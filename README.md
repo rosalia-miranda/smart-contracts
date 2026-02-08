@@ -1,7 +1,5 @@
-# Case Stone — Contratos Inteligentes da cripto Ethereum
-
-**Cargo:** Analista de Business Intelligence III  
-**Candidata:** Rosalia Miranda  
+# Contratos Inteligentes da cripto Ethereum
+  
 
 ---
 
