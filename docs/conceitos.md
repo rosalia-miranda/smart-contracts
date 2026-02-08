@@ -1,6 +1,6 @@
 # Definições importantes 
 
-O documento descreve as principais definições conceituais e decisões analíticas adotadas ao longo do case de análise de dados sobre contratos inteligentes na rede de criptos Ethereum, com a base disponível no BigQuery.
+O documento descreve as principais definições conceituais e decisões analíticas adotadas ao longo da análise de dados sobre contratos inteligentes na rede de criptos Ethereum, com a base disponível no BigQuery.
 
 ---
 
